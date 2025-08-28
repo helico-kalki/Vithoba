@@ -23,7 +23,7 @@ for card in flashcards:
 
 app = QApplication(sys.argv)
 window = QMainWindow()
-window.setWindowIcon(QIcon("logo.png"))
+window.setWindowIcon(QIcon("logo2.png"))
 window.setGeometry(100,100,400,400)
 w_palette = window.palette()
 w_palette.setColor(QPalette.ColorRole.Window, QColor("#111119"))
@@ -163,7 +163,7 @@ class FlashCardWidget(QWidget):
         self.history_window = QWidget()
         self.history_window.setWindowTitle("History")
         self.history_window.setGeometry(150, 150, 400, 300)
-        self.history_window.setWindowIcon(QIcon("logo.png"))
+        self.history_window.setWindowIcon(QIcon("logo2.png"))
         w_palette = self.palette()
         w_palette.setColor(QPalette.ColorRole.Window, QColor("#111119"))
         self.setPalette(w_palette)
@@ -249,7 +249,7 @@ class FlashCardManager(QWidget):
     def initUI(self):
         self.setWindowTitle("Manage Flashcards")
         self.setGeometry(150, 150, 400, 400)
-        self.setWindowIcon(QIcon("logo.png"))
+        self.setWindowIcon(QIcon("logo2.png"))
         self.setStyleSheet("background-color: #111119")
         w_palette = self.palette()
         w_palette.setColor(QPalette.ColorRole.Window, QColor("#111119"))
@@ -320,7 +320,7 @@ class FlashCardManager(QWidget):
     def add_card(self):
         dialog = QDialog(self)
         dialog.setWindowTitle("New Flashcard")
-        dialog.setWindowIcon(QIcon("logo.png"))
+        dialog.setWindowIcon(QIcon("logo2.png"))
         w_palette = dialog.palette()
         w_palette.setColor(QPalette.ColorRole.Window, QColor("#111119"))
         dialog.setPalette(w_palette)
