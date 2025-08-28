@@ -1,6 +1,5 @@
-<img width="100" height="100" alt="logo" src="https://github.com/user-attachments/assets/ce7e297b-7513-43e1-984e-cea0aa329af1" />
 
-# Vithoba Flashcards
+# <img width="100" height="100" alt="logo2" src="https://github.com/user-attachments/assets/a177b422-7ccf-4ef2-9fea-4aa51d5fb413" />    Vithoba Flashcards 
 
 Vithoba is a Flashcard Tool built in Python. It has weight-functionality, so the cards don't just rotate randomly.  
 To add a Flash Card simply go to the Manage Menu by clicking on the `...` Button in the bottom left corner and create a new one with the green Add Button.  
