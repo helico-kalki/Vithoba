@@ -33,6 +33,7 @@ Of course, `Python` itself is required: https://www.python.org/downloads/
 
 <img width="398" height="424" alt="image" src="https://github.com/user-attachments/assets/5d2fe853-8e7a-4648-abea-c6b23e29226f" />
 
+<img width="383" height="218" alt="image" src="https://github.com/user-attachments/assets/d3d919ac-38cf-4f5b-8a6d-e985d83d1ec4" />
 
 ## ♻ Changelog
 08/28/25 | 1.0 | Base Version
