@@ -28,3 +28,5 @@ Of course, `Python` itself is required: https://www.python.org/downloads/
 
 ## ♻ Changelog
 08/28/25 | 1.0 | Base Version
+
+<img width="1000" height="1000" alt="logo" src="https://github.com/user-attachments/assets/ce7e297b-7513-43e1-984e-cea0aa329af1" />
