@@ -1,5 +1,5 @@
 
-# <img width="100" height="100" alt="logo2" src="https://github.com/user-attachments/assets/a177b422-7ccf-4ef2-9fea-4aa51d5fb413" />    Vithoba Flashcards 
+#  <img width="100" height="100" alt="logo-red" src="https://github.com/user-attachments/assets/f9434ad4-01d5-4381-8741-293cd0493aa3" />    Vithoba Flashcards 
 
 Vithoba is a Flashcard Tool built in Python. It has weight-functionality, so the cards don't just rotate randomly.  
 To add a Flash Card simply go to the Manage Menu by clicking on the `...` Button in the bottom left corner and create a new one with the green Add Button.  
@@ -27,18 +27,15 @@ Of course, `Python` itself is required: https://www.python.org/downloads/
 
 ## 🖼 GUI
 
-<img width="396" height="426" alt="image" src="https://github.com/user-attachments/assets/71d8d635-5ad7-4e62-87ae-680f55878b29" />
+<img width="503" height="429" alt="image" src="https://github.com/user-attachments/assets/f78d74b0-3325-40b9-9731-3c2cad7f291a" />
 
-<img width="401" height="424" alt="image" src="https://github.com/user-attachments/assets/83ffe32e-d0f1-47d4-b9ed-3cca7aa5ea24" />
+<img width="497" height="424" alt="image" src="https://github.com/user-attachments/assets/3173bca3-8a74-4df8-afd8-ff35e39c0dbd" />
 
-<img width="398" height="424" alt="image" src="https://github.com/user-attachments/assets/5d2fe853-8e7a-4648-abea-c6b23e29226f" />
+<img width="495" height="424" alt="image" src="https://github.com/user-attachments/assets/190642b8-6417-4288-8c15-b6dff298d078" />
 
-<img width="383" height="218" alt="image" src="https://github.com/user-attachments/assets/d3d919ac-38cf-4f5b-8a6d-e985d83d1ec4" />
 
-## 📌 Ideas
-
-- Random Order
-- Go Back to last one
 
 ## ♻ Changelog
+08/29/25 | 1.1 | Added **Type** and **Go Back** function
+
 08/28/25 | 1.0 | Base Version
