@@ -1,11 +1,10 @@
 
 #  <img width="100" height="100" alt="logo-red" src="https://github.com/user-attachments/assets/f9434ad4-01d5-4381-8741-293cd0493aa3" />    Vithoba Flashcards 
 
-Vithoba is a Flashcard Tool built in Python. It has weight-functionality, so the cards don't just rotate randomly.  
-To add a Flashcard simply go to the Manage Menu by clicking on the `...` Button in the bottom left corner and create a new one with the green Add Button.  
-In this Manage Menu you can also view and delete all your Flashcards.
+🀄 Vithoba is a powerful Flashcard Tool built in Python. It has weight-functionality, so the cards don't just rotate randomly.  
+Also, you can invert the flashcard and type in the answer instead of just flipping, if you want to.
 
-The Flashcards are saved in the `flashcards.json` file, where they of course could also be edited
+📂 The flashcards are saved in the `flashcards.json` file, where they could also be edited of course.
 
 ---
 
