@@ -6,6 +6,8 @@ Also, you can invert the flashcard and type in the answer instead of just flippi
 
 📂 The flashcards are saved in the `flashcards.json` file, where they could also be edited of course.
 
+🤖 This project is 90% AI, I only made the design.
+
 ---
 
 ## 📥 Installation
