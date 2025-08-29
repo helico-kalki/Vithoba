@@ -2,7 +2,7 @@
 #  <img width="100" height="100" alt="logo-red" src="https://github.com/user-attachments/assets/f9434ad4-01d5-4381-8741-293cd0493aa3" />    Vithoba Flashcards 
 
 Vithoba is a Flashcard Tool built in Python. It has weight-functionality, so the cards don't just rotate randomly.  
-To add a Flash Card simply go to the Manage Menu by clicking on the `...` Button in the bottom left corner and create a new one with the green Add Button.  
+To add a Flashcard simply go to the Manage Menu by clicking on the `...` Button in the bottom left corner and create a new one with the green Add Button.  
 In this Manage Menu you can also view and delete all your Flashcards.
 
 The Flashcards are saved in the `flashcards.json` file, where they of course could also be edited
@@ -33,7 +33,45 @@ Of course, `Python` itself is required: https://www.python.org/downloads/
 
 <img width="495" height="424" alt="image" src="https://github.com/user-attachments/assets/190642b8-6417-4288-8c15-b6dff298d078" />
 
+## ✨ Features
 
+### ⭕ General
+
+- 💫 Flip (Show answer and rating menu)
+- 〽 Rating
+
+      Rate your own answer
+      Bad, Okay or Good
+      Depending on that the weight will change (Bad adds, Good removes)
+
+- 🧱 Weight
+
+      The weight will determine how often you get a flashcard
+  
+- ▶ Next
+
+### ➖ Bottom Bar
+
+- ◀ Go Back `←` (Updates rating of last flashcard)
+- 🔳 Invert (Switches Question and Answer)
+- 🅰 Type (Type Answer)
+- 📔 History Menu
+
+  Menu of Items:
+
+      Question (←/→) Answer
+      (Bad/Okay/Good), weight (1/2/3/...)
+  
+- 👔 Manage Menu `...`
+
+  Menu of Items:
+
+      Question → Answer
+
+  🗑 **Delete** Selected Flashcard 
+  
+  ➕ **Add** Flashcard (with Popup)
+  
 
 ## ♻ Changelog
 08/29/25 | 1.1 | Added **Type** and **Go Back** function
