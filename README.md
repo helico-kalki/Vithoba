@@ -28,9 +28,15 @@ Of course, `Python` itself is required: https://www.python.org/downloads/
 
 <img width="503" height="429" alt="image" src="https://github.com/user-attachments/assets/f78d74b0-3325-40b9-9731-3c2cad7f291a" />
 
+---
+
 <img width="497" height="424" alt="image" src="https://github.com/user-attachments/assets/3173bca3-8a74-4df8-afd8-ff35e39c0dbd" />
 
+---
+
 <img width="495" height="424" alt="image" src="https://github.com/user-attachments/assets/190642b8-6417-4288-8c15-b6dff298d078" />
+
+---
 
 ## ✨ Features
 
