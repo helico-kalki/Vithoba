@@ -57,6 +57,7 @@ Of course, `Python` itself is required: https://www.python.org/downloads/
       You can edit it by hand in the flashcards.json file, if you want
   
 - ▶ Next (Goes to the next flashcard, writing mode exclusive, as you don't rate on your own)
+- 📈 Counter (Info: total number of flashcards and the count of flips done)
 
 ### ➖ Bottom Bar
 
