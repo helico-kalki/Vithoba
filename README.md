@@ -22,7 +22,7 @@ If not working, try:
 
 ▶ **To start, just open the gui.py file.**
 
-The font used is `Inter`, you'll have to install it on your own: https://fonts.google.com/specimen/Inter
+The font used is `Inter`, you'll have to install it on your own: https://fonts.google.com/specimen/Inter (it's not required, but recommended)
 Of course, `Python` itself is required: https://www.python.org/downloads/
 
 ## 🖼 GUI
@@ -43,18 +43,21 @@ Of course, `Python` itself is required: https://www.python.org/downloads/
       Rate your own answer
       Bad, Okay or Good
       Depending on that the weight will change (Bad adds, Good removes)
+      After rating, a new random flashcard will appear
+      In writing mode, if your answer is correct, it will be rated Good, if incorrect, Bad.
 
 - 🧱 Weight
 
       The weight will determine how often you get a flashcard
+      You can edit it by hand in the flashcards.json file, if you want
   
-- ▶ Next
+- ▶ Next (Goes to the next flashcard, writing mode exclusive, as you don't rate on your own)
 
 ### ➖ Bottom Bar
 
 - ◀ Go Back `←` (Updates rating of last flashcard)
 - 🔳 Invert (Switches Question and Answer)
-- 🅰 Type (Type Answer)
+- 🅰 Type (Enable writing mode)
 - 📔 History Menu
 
   Menu of Items:
