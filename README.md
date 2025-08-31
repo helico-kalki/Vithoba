@@ -8,6 +8,8 @@ Also, you can invert the flashcard and type in the answer instead of just flippi
 
 🤖 This project is 90% AI, I only made the design.
 
+🚦 Due to risks with AI generated code and the PyQt6 license, this project is published under the GPL license, although I'd wish this to have no copyright at all.
+
 ---
 
 ## 📥 Installation
