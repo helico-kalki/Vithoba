@@ -26,6 +26,7 @@ If not working, try:
 ▶ **To start, just open the gui.py file.**
 
 The font used is `Inter`, you'll have to install it on your own: https://fonts.google.com/specimen/Inter (it's not required, but recommended)
+
 Of course, `Python` itself is required: https://www.python.org/downloads/
 
 ## 🖼 GUI
@@ -65,7 +66,7 @@ Of course, `Python` itself is required: https://www.python.org/downloads/
 
 ### ➖ Bottom Bar
 
-- ◀ Go Back `←` (Updates rating of last flashcard)
+- ◀ Go Back `←` (Update rating of last flashcard)
 - 🔳 Invert (Switches Question and Answer)
 - 🅰 Type (Enable writing mode)
 - 📔 History Menu
